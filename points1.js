@@ -1,0 +1,9 @@
+var points1_roadSet1Formatted.txt = new Array();
+points1_roadSet1Formatted.txt[0] =46.395763397999986;
+points1_roadSet1Formatted.txt[1] =-63.79356619599997;
+points1_roadSet1Formatted.txt[2] =46.395369499000026;
+points1_roadSet1Formatted.txt[3] =-63.793694415000004;
+points1_roadSet1Formatted.txt[4] =46.394461299;
+points1_roadSet1Formatted.txt[5] =-63.795745538999995;
+points1_roadSet1Formatted.txt[6] =46.39391308400002;
+points1_roadSet1Formatted.txt[7] =-63.79174435700003;
